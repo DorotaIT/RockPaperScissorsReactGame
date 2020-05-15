@@ -1,0 +1,7 @@
+.game-icon {
+    cursor: pointer;
+}
+
+.game-icon:hover svg{
+    color: rgb(54, 104, 161);
+}

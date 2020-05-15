@@ -1,0 +1,9 @@
+h4 {
+    text-align: center;
+}
+
+.score-board {
+    margin-top: 45px;
+    padding-bottom: 55px;
+    border: 1px solid black;
+}
